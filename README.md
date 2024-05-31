@@ -12,24 +12,16 @@ This repository is a collection of feedback and kind words I've received from co
 
 ### Yana
 ![Yana Minakova's Feedback](images/Yana_MINAKOVA.PNG)
-> It was great working with you: thank you for making the technical things easy for me, and the meetings—fun and light-hearted.
-> I am wishing you all the best in your future adventures!
-> Not saying goodbye, but au revoir! 😊
 
 ### Walid
 ![Walid Mohan Amer's Feedback](images/Walid_MOHAN_AMER.PNG)
-> À la prochaine Mohamadou, c'était un plaisir de te rencontrer 😜
-> Garde ta bonne humeur, j'aurais bien aimé bosser avec toi mais comme tu le dis si bien, je suis convaincu que nos chemins se croiseront de nouveau un jour.
-> Bon vent 😜
 
 ### Victorien
 ![Victorien Bouillard's Feedback](images/victorien_BOUILLARD.PNG)
-> Merci pour tout Mohamadou ! Bonne continuation à toi !
 
 ### Ayoub
 ![Ayoub Rmidi's Feedback](images/Ayoub_RMIDI.PNG)
-> Just wanted to thank you for the onboarding meetings and for your time, I really appreciate it.
-> Wishing you all the good luck on what’s coming next, and I’m quite sure you’ll excel as usual.
+
 
 ## About Me
 
