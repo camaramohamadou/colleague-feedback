@@ -2,25 +2,29 @@
 
 This repository is a collection of feedback and kind words I've received from colleagues and clients during my professional journey. It serves as a testament to the positive impact I've made in my work environment.
 
-## Feedback
-
-### Vanessa
-![Vanessa's Feedback](images/Vanessa_De_Rudder.PNG)
-
-### Amira
-![Amira's Feedback](images/EL_SAYED_Amira.PNG)
+## Feedback TEAM LVMH:
 
 ### Yana
 ![Yana Minakova's Feedback](images/Yana_MINAKOVA.PNG)
 
-### Walid
-![Walid Mohan Amer's Feedback](images/Walid_MOHAN_AMER.PNG)
+### Ayoub
+![Ayoub Rmidi's Feedback](images/Ayoub_RMIDI.PNG)
 
 ### Victorien
 ![Victorien Bouillard's Feedback](images/victorien_BOUILLARD.PNG)
 
-### Ayoub
-![Ayoub Rmidi's Feedback](images/Ayoub_RMIDI.PNG)
+
+### Walid
+![Walid Mohan Amer's Feedback](images/Walid_MOHAN_AMER.PNG)
+
+
+## Feedback TEAM Iprospect (DENTSU)
+
+### Amira
+![Amira's Feedback](images/EL_SAYED_Amira.PNG)
+
+### Vanessa
+![Vanessa's Feedback](images/Vanessa_De_Rudder.PNG)
 
 
 ## About Me
